@@ -6,6 +6,7 @@
   "icon": "extension-icon.png",
   "author": "julian_gojani",
   "owner": "interaapps",
+  "access": "public",
   "categories": [
     "Developer Tools",
     "Web",
